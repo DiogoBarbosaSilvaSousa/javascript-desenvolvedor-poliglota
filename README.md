@@ -36,4 +36,13 @@ Torne-se um desenvolvedor mais versátil.
 * Memorization Pattern com requisições Ajax
 * Limpeza do cache de uma função
 
+# Capítulo 5
+
+* A finalidade do Decorator Pattern e TypeScript como inspiração
+* Modificação de métodos do prototype de objetos
+* Definição de uma API para declaração de decorators reutilizáveis
+* Implementação do core responsável pela aplicação dos decorators
+* Aplicar mais de um decorator a um mesmo método
+* Decorators que recebem parâmetro
+
 
